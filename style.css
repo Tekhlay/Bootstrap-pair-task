@@ -3,3 +3,14 @@
     background-size: 100%;
     
 }
+
+#about-me{
+    background: url(../images/illustration\ about\ me\ desktop.png) no-repeat 100% 0%, url(images/illustration-about-me-2-desktop.png) no-repeat 20px 10px;
+}
+
+#contact-me {
+    background:
+    url(../images/contact\ form-illustratoin-3-desktop.png) no-repeat 100% 50%,
+    url(../images/illustration-2-contact-form-desktop@2x.png) no-repeat 20% 70%,
+    url(../images/illustration-1-contact-form-desktop.png) no-repeat 0% 70%;
+}
